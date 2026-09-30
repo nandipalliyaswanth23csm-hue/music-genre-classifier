@@ -1,0 +1,6 @@
+streamlit
+librosa
+soundfile
+pandas
+numpy
+snowflake-connector-python==4.8.0
